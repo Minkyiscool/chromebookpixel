@@ -2,7 +2,7 @@
 The Chromebook Pixel is a premium and in-house-made laptop that was released by Google in 2013 to display how much can be achieved through using the ChromeOS system. The Chromebook Pixel has an impressive 12.85 inch 3:2 ratio touch screen. The laptop, despite being constructed from aluminum, has very high prices up to around $1299 (£1050 UK).
 Lots of people decide to install different operating systems, and this is what this guide can tell you about, as ChromeOS is no longer supported on this laptop.
 
-# How do you install these?
+# How do you install new OS's?
 Before you continue, back up your data for any last changes, get an external mouse/keyboard, and prepare a USB with the OS you are installing.
 This will require the WP screw being taken off from the back. The full guide for that is on [IFixIt](https://www.ifixit.com/Guide/Remove+the+Write+Protect+Screw/86362).
 
