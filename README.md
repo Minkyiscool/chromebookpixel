@@ -6,7 +6,7 @@ Lots of people decide to install different operating systems, and this is what t
 Before you continue, back up your data for any last changes, get an external mouse/keyboard, and prepare a USB with the OS you are installing.
 This will require the WP screw being taken off from the back. The full guide for that is on [IFixIt](https://www.ifixit.com/Guide/Remove+the+Write+Protect+Screw/86362).
 ## Enable Developer Mode
-1. Turn on the Pixel and hold down ESC and REFRESH, then press the power button.
+1. Turn on the Pixel and hold down ESC + REFRESH, then press the power button.
 2. Once you see the message "Chrome OS is missing or damaged.", press CTRL+D.
 3. When you get "To turn OS verification off, press Enter.", press ENTER.
 ## Developer Shell
